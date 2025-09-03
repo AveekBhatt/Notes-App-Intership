@@ -22,4 +22,5 @@ AI features | GEMINI API :
 
 ACCESS_TOKEN_SECRET=gfg_jwt_secret_key
 GEMINI_API_KEY=AIzaSyDUongKkuPOEMKGbjKAMLD2UNwEwd7Hl-0
+
 "connectionString" : "mongodb+srv://testuser:testuser123@notesapp.on5belq.mongodb.net/?retryWrites=true&w=majority&appName=notesapp"
