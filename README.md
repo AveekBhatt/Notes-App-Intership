@@ -19,3 +19,7 @@ AI features | GEMINI API :
 1. Auto Summary + Tags Generation
 2. Auto Summary + Tags Update
 3. Q&A bot 
+
+ACCESS_TOKEN_SECRET=gfg_jwt_secret_key
+GEMINI_API_KEY=AIzaSyDUongKkuPOEMKGbjKAMLD2UNwEwd7Hl-0
+"connectionString" : "mongodb+srv://testuser:testuser123@notesapp.on5belq.mongodb.net/?retryWrites=true&w=majority&appName=notesapp"
