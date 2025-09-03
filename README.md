@@ -8,7 +8,7 @@ Framworks Used :
 4. Express
 
 Features : 
-1. Login / Sign Up Authentication
+1. Login / Sign Up Authentication [Both User | Admin]
 2. Password Encryption with bcrpyt
 3. Navbar with Search Bar and User Info and Logout feature
 4. Sidebar : Last 5 updated By User | Admin
